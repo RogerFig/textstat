@@ -52,6 +52,12 @@ langs = {
         "fre_sentence_length": 1.3,
         "fre_syll_per_word": 60.1,
     },
+    "pt_BR": {
+        "fre_base": 248.835,
+        "fre_sentence_length": 1.015,
+        "fre_syll_per_word": 84.6,
+        "syllable_threshold": 3,
+    },
 }
 
 
